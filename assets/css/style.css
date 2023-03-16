@@ -136,3 +136,42 @@ border-color:white;
     color: white!important;
 }
 /* Customized_Chocolet_end */
+/* please_click_for_order_starts */
+.please_click_for_order_starts{
+
+}
+.please_click_for_order_details{
+
+}
+.please_click_for_order_img{
+position: relative;
+}
+.please_click_for_order_para{
+position: absolute;
+top:35%;
+left: 10%;
+right: 10%;
+}
+.please_click_for_order_para .btn{
+    background-color: red;
+    font-weight: bold;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.5rem;
+    border-radius: 15px;
+}
+.please_click_for_order_para h1{
+    color: red;
+    font-weight: bold;
+}
+.please_click_for_order_para h2{
+    font-weight: 600;
+    color: white;
+}
+/* please_click_for_order_end */
+/* what_have_customize_box_start */
+.what_have_customize_box_one{
+    border-radius: 10px;
+    overflow: hidden;
+}
+/* what_have_customize_box_end */
