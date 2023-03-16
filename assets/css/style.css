@@ -56,6 +56,7 @@ border-right: 1px solid pink;
 }
 .gift_price_section_img{
 position:relative;
+height:400px;
 }
 .gift_price_section_img_para{
  text-align: center;
@@ -83,3 +84,55 @@ position:relative;
     background-color:navy;
 }
 /* delivery_section_end */
+/* Customized_Chocolet_start */
+.Customized_Chocolet_start{
+background-color: #FEF5F5;
+}
+.Customized_Chocolet_title{
+ text-align: center;
+}
+.Customized_Chocolet_title h1{
+    line-height: 50px;
+    font-weight:700;
+}
+.Customized_Chocolet_one{
+    background-color: white;
+    border-radius: 10px;
+    transition: all 0.7s;
+}
+.Customized_Chocolet_one_inner{
+    background-color: white;
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+.Customized_Chocolet_one h3{
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+}
+.Customized_Chocolet_one p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #878497;
+}
+.Customized_Chocolet_one_inner img{
+background-color: white;
+padding: 15px;
+background: #fff;
+    box-shadow: 0 4px 57px rgba(0,0,0,.15);
+    border-radius: 10px;
+}
+.Customized_Chocolet_one:hover{
+background-color: red;
+}
+.Customized_Chocolet_one:hover .Customized_Chocolet_one_inner{
+background-color:red;
+color: white;
+border-color:white;
+}
+.Customized_Chocolet_one:hover p{
+    color: white!important;
+}
+/* Customized_Chocolet_end */
