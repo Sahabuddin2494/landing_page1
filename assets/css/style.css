@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: Open Sans,sans-serif;
+}
+.gift_value_section_start{
+    background-image: url("../images/bg1.png");
+    /* height:100vh; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.gift_value_section_title{
+
+}
+.gift_value_section_left{
+
+}
+.gift_value_section_left h3{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 60px;
+}
+.gift_value_section_right{
+
+}
+.gift_r_img_size{
+    width: 80%;
+}
+/* delivery_section_start */
+.delivery_section_start{
+background-color:#FF466D;
+}
+.delivery_section_one{
+border-right: 1px solid pink;
+}
+.delivery_section_one h3{
+    padding-top:15px;
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 60px;
+}
+.delivery_section_common_img{
+
+}
+.gift_price_section_start{
+
+}
+.gift_price_section_details{
+
+}
+.gift_price_section_img{
+    background-image: url("../images/price_img.png");
+    height: 100vh;
+    background-position: center;
+    background-size:100%;
+    background-repeat: no-repeat;
+}
+/* delivery_section_end */
