@@ -189,3 +189,14 @@ right: 10%;
 
 }
 /* customer_review_section_end */
+/* quickly_order_section_start */
+.quickly_order_section_start{
+    background-color: #FEF5F5;
+}
+.quickly_order_section_title{
+ text-align: center;
+}
+.quickly_order_section_title h1{
+    font-weight:bold;
+}
+/* quickly_order_section_end */
