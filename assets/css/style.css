@@ -200,3 +200,30 @@ right: 10%;
     font-weight:bold;
 }
 /* quickly_order_section_end */
+.quickly_order_section_left{
+
+}
+.quickly_order_section_left label{
+    font-size: 30px;
+    font-weight: 600;
+}
+.quickly_order_left_Payment{
+
+}
+.quickly_order_left_Payment_one{
+background-color: white;
+border-radius: 10px;
+overflow: hidden;
+}
+.quickly_o_l_Pay_title{
+
+}
+.quickly_order_left_Payment_one p{
+    background-color:#FE466D;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+/* quickly_order_section_left */
+.quickly_order_section_right{
+
+}
