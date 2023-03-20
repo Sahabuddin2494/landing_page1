@@ -6,6 +6,7 @@
 }
 body{
     font-family: Open Sans,sans-serif;
+    
 }
 .gift_value_section_start{
     background-image: url("../images/bg1.png");
@@ -304,4 +305,48 @@ justify-content: space-between;
     font-weight: 700;
     border: none;
 }
-    
+/* .footer_section_start */
+.footer_section_start{
+}
+.footer_section_one{
+
+}
+.footer_section_one_title{
+
+}
+.footer_section_one_title h4{
+
+}
+.footer_section_one_title a{
+    font-size: 16px;
+    color:#878497;
+    text-decoration: none;
+}
+.footer_section_one_title p{
+    margin-bottom: 4px;
+}
+.footer_section_one_icon{
+
+}
+
+/* .footer_section_end */
+/* footer_copy_write_section_start */
+.footer_copy_write_section_start{
+
+}
+.footer_copy_write_main{
+text-align: center;
+border-top: 1px solid #878497;
+
+}
+.footer_copy_write_main p{
+ margin-bottom: 0px;
+ font-size: 14px;
+ color: #878497;;
+}
+.footer_copy_write_main a{
+color: red;
+text-decoration: none;
+font-weight:bold;
+}
+/* footer_copy_write_section_end */
