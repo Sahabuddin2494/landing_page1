@@ -227,3 +227,30 @@ overflow: hidden;
 .quickly_order_section_right{
 
 }
+.quickly_order_right_details{
+    border: 1px solid #D1D5DB;
+    border-radius: 10px;
+}
+.quickly_order_right_de_one{
+display: flex;
+justify-content: space-between;
+align-items: center;
+border-bottom: 1px solid #D1D5DB;
+}
+.quickly_order_right_de_one h4{
+ font-size: 20px;
+ font-weight: 600;
+}
+.quickly_order_right_de_one h5{
+font-size: 17px;
+}
+/* one_end */
+.quickly_order_right_de_two{
+
+}
+.quickly_order_right_de_two_left{
+
+}
+.quickly_order_right_de_two_right{
+    
+}
